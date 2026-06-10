@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-shadows-moving/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Velvet Shadows Moving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadows-moving/) |
+| **Get License** | [Get License For Velvet Shadows Moving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadows-moving/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Velvet shadows moving on the wall
+> I only listen when I hear you call
+> A sudden spark is burning in the dark
+> I want to leave a never-ending mark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
