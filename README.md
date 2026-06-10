@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-shadows-moving/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Velvet Shadows Moving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadows-moving/) |
+| **Get License** | [Music Rights & Licensing for Velvet Shadows Moving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadows-moving/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `705b6aca1b281c1b76cb49a71abd170094a057b36d4f5829c93545d5e442b2ad` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
